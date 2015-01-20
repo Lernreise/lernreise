@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Schule X"
+date:   2015-01-20 21:51:20
+categories: jekyll update
+---
 #Überschrift
 
 Das ist ein Text über die letzte Schule, die wir besucht haben. Spannend!

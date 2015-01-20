@@ -8,4 +8,4 @@ categories: jekyll update
 this is the Lernreise
 hier st a [link](http://www.k-nut.eu).
 
-Und ein ![Bild] (/lernreisepierre/images/foodsharing)
+Und ein ![Bild] (https://github.com/Lernreise/lernreisepierre/blob/gh-pages/images/foodsharing.JPG)

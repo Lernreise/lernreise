@@ -4,4 +4,4 @@ title: Woran wir glauben
 permalink: /woran-wir-glauben/
 ---
 
-Daran glauben wir
+Daran glauben wir nicht!
